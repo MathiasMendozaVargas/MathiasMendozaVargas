@@ -1,8 +1,3 @@
----
-
-## :hammer_and_wrench: Languages and Tools:
-
----
 
 ### Web Development:
 
