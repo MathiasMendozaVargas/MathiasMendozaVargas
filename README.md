@@ -4,7 +4,7 @@
 
 ---
 
-## Web Development :computer:
+### Web Development :computer:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -17,7 +17,7 @@
 
 ---
 
-## Machine Learning & DeepLearning :robot:
+### Machine Learning & DeepLearning :robot:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -32,7 +32,7 @@
 
 ---
 
-## App Development :iphone:
+### App Development :iphone:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -41,7 +41,7 @@
 
 ---
 
-## Database and SCM :gear:
+### Database and SCM :gear:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
