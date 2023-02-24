@@ -15,8 +15,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 </div>
 
----
-
 ### Machine Learning & DeepLearning :robot:
 
 <div>
@@ -30,8 +28,6 @@
 
 </div>
 
----
-
 ### App Development :iphone:
 
 <div>
@@ -39,7 +35,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" **alt="Dart" width="40" height="40"/>
 </div>
 
----
 
 ### Database and SCM :gear:
 
@@ -50,7 +45,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+---
 
 ## :fire: My Stats :
 
