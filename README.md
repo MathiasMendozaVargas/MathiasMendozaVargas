@@ -88,8 +88,6 @@
 <a href="https://medium.com/@mathiasmendozavargas1403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mathiasmendozavargas1403" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathiasmendozavargas&show_icons=true&locale=en&layout=compact" alt="mathiasmendozavargas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathiasmendozavargas&show_icons=true&locale=en" alt="mathiasmendozavargas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathiasmendozavargas&" alt="mathiasmendozavargas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathiasmendozavargas&theme=vision-friendly-dark" alt="mathiasmendozavargas" /></p>
