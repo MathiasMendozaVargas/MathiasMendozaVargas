@@ -80,13 +80,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasMendozaVargas&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathiasmendozavargas&theme=algolia" alt="mathiasmendozavargas" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mathias-mendoza-vargas-19539b263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathias-mendoza-vargas-19539b263" height="30" width="40" /></a>
 <a href="https://instagram.com/mathiasmendozav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mathiasmendozav" height="30" width="40" /></a>
 <a href="https://medium.com/@mathiasmendozavargas1403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mathiasmendozavargas1403" height="30" width="40" /></a>
 </p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathiasmendozavargas&theme=algolia" alt="mathiasmendozavargas" /></p>
