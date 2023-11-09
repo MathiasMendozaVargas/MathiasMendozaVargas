@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mathias Mendoza</h1>
 <h3 align="center">I am an experienced fronted engineer based in Vancouver with a proven track record of developing high-quality and fullyfunctional web applications. While I still focus on delivering high-quality code, my biggest value-add nowadays is building a highperformance team with great cohesion.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathiasmendozavargas" alt="mathiasmendozavargas" /></a> </p>
-
 - 🔭 I’m currently working on [My Purple Space Social Network](https://mypurplespace.netlify.app/)
 
 - 🌱 I’m currently learning **AngularJs**
