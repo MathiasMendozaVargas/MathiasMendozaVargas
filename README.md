@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mathias Mendoza</h1>
-<h2 align="center">I am an experienced fronted engineer based in Vancouver with a proven track record of developing high-quality and fullyfunctional web applications. While I still focus on delivering high-quality code, my biggest value-add nowadays is building a highperformance team with great cohesion.</h2>
 
 - 🔭 I’m currently working on [My Purple Space Social Network](https://mypurplespace.netlify.app/)
 
