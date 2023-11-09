@@ -79,7 +79,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathiasMendozaVargas&theme=merko&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasMendozaVargas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasMendozaVargas&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -90,4 +90,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathiasmendozavargas&theme=vision-friendly-dark" alt="mathiasmendozavargas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathiasmendozavargas&theme=merko&show_icons=true" alt="mathiasmendozavargas" /></p>
