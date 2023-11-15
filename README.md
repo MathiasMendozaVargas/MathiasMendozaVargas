@@ -8,11 +8,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mathiasmendozavargas1403](https://medium.com/@mathiasmendozavargas1403)
 
-- 💬 Ask me about **anything**
+- 📃 Here's my <a href='https://www.dropbox.com/scl/fi/og4qsvgczwo7e6xicw4bf/MathiasMendozaResume.pdf?rlkey=xcwb089v9cxywfqgfyqucatjz&dl=0'>Resume</a>
 
 - 📫 How to reach me **mathiasmendoza_vargas14@hotmail.com**
-
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/og4qsvgczwo7e6xicw4bf/MathiasMendozaResume.pdf?rlkey=xcwb089v9cxywfqgfyqucatjz&dl=0](https://www.dropbox.com/scl/fi/og4qsvgczwo7e6xicw4bf/MathiasMendozaResume.pdf?rlkey=xcwb089v9cxywfqgfyqucatjz&dl=0)
 
 - ⚡ Fun fact **I'm very friendly, oh and also very determined :)**
 
