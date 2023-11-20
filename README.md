@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [My Purple Space Social Network](https://mypurplespace.netlify.app/)
 
-- 🌱 I’m currently learning **AngularJs**
+- 🌱 I’m currently learning **Python Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://mathiasmendoza-portfolio.netlify.app/](https://mathiasmendoza-portfolio.netlify.app/)
 
